@@ -1,5 +1,5 @@
 '''
-EE 281 Project 1 - Part 1
+EE 281 Project 3 - Part 1
 Scott Sakurai
 018497139
 '''
