@@ -12,6 +12,6 @@ for i in range(T):
     r = random.uniform(0,1)
 
     if r<p:
-        print('1', end=' ')
+        print('1', end='')
     else:
-        print('0',end=' ')
+        print('0',end='')
